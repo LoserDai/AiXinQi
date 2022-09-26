@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="爱蕊崎产品宣传网" />
+        <module name="Publicity" />
       </profile>
     </annotationProcessing>
   </component>
